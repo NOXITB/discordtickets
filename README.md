@@ -1,13 +1,13 @@
-# DisTickets
+# discticket
 
 Discord-Ticket is an npm package who allows you to create a perfectly working ticket system with buttons!.
 
 ## Installation
 
-Use [node.js](https://nodejs.org/it/download/) to install distickets.
+Use [node.js](https://nodejs.org/it/download/) to install discticket
 
 ```bash
-npm install distickets
+npm install discticket
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install distickets
 ```javascript
 const discord = require('discord.js')
 const client = new discord.Client({intents: [discord.Intents.FLAGS.GUILDS, discord.Intents.FLAGS.GUILD_MESSAGES]});
-const { Ticket, TicketInteraction } = require('distickets')
+const { Ticket, TicketInteraction } = require('discticket')
 
 
 client.on('messageCreate', async message => {
