@@ -74,8 +74,8 @@ client.login('TOKEN')
 ```
 
 ## ScreenShots
-![ticket create embed](https://cdn.discordapp.com/attachments/873616872061435986/876796336203243541/unknown.png)
+![ticket create embed](https://cdn.discordapp.com/attachments/895253373689938010/908127608934395944/Screen_Shot_2021-11-11_at_8.54.17_am.png)
 
-![Ticket Open](https://cdn.discordapp.com/attachments/876796417878941786/876796447662698547/unknown.png)
+![Ticket Open](https://cdn.discordapp.com/attachments/895253373689938010/908127609471270952/Screen_Shot_2021-11-11_at_8.54.27_am.png)
 
-![Ticket Close](https://cdn.discordapp.com/attachments/873616872061435986/876796661563797524/unknown.png)
+![Ticket Close](https://cdn.discordapp.com/attachments/895253373689938010/908127609995530290/Screen_Shot_2021-11-11_at_8.54.40_am.png)
