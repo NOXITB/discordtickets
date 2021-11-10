@@ -1,6 +1,6 @@
 {
   "name": "discticket",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "package to create ticket system",
   "main": "index.js",
   "directories": {
